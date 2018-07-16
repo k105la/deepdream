@@ -1,7 +1,7 @@
 # deepdream
 
 
-This directory contains Jupyter notebook that is a simple usage of the DeepDream algorithim in TensorFlow just swap photos out in the image directory for custom photos:
+This directory contains Jupyter notebook that is a simple usage of the DeepDream algorithm in TensorFlow just swap photos out in the image directory for custom photos:
 
 To run this notebook locally, you will need the following dependencies:
 
